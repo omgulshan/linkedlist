@@ -21,7 +21,7 @@ void print(Node *head){
     }
     cout<<"NULL"<<endl;
 }
-/*
+
 Node* takeInput(){
    int data;
    cin>>data;
@@ -44,7 +44,7 @@ Node* takeInput(){
    return head;
 
 }
-*/
+
 Node* takeInput2(){
    int data;
    cin>>data;
