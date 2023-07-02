@@ -9,7 +9,7 @@ time complexity of linkedlist-o(n).
 */
 class node{
   /*public specifier is required to make sure that the variable under the class is accessible
-  for any function outside the class 
+  for any function outside the class .
   */
   public:
   /*data variable will store the data required to be stored in the linked list.
