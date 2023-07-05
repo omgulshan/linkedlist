@@ -85,7 +85,7 @@ void print_linked_list1(node *head,int i){
 int main(){
      node *head = takeInput();
      int i;
-     cout<<"please enter the index which are required to be printed:"<<endl;
+     cout<<"please enter the index which are required to be printed:."<<endl;
      cin>>i;
      print_linked_list(head,i);
      print_linked_list1(head,i);
